@@ -1,12 +1,4 @@
-'''
-Implementation of ViTSTR based on timm VisionTransformer.
 
-TODO: 
-1) distilled deit backbone
-2) base deit backbone
-
-Copyright 2021 Rowel Atienza
-'''
 
 from __future__ import absolute_import
 from __future__ import division
